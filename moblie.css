@@ -1,0 +1,99 @@
+/* anv bar */
+
+.small__navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    padding: 20px;
+    height: 66px;
+  }
+  
+  /*   input  */
+  
+  .second__navbar .search__bar {
+   
+  }
+  .second__navbar .select_option {
+  
+      display: none;
+  }
+  .second__navbar .search__bar {
+    width: 100vw;
+    border: 2px solid #012f34;
+    background-color: #fff;
+    border-radius: 4px;
+  
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .second__navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 80px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .ad img {
+      width: 100vw;
+      height: 10px;
+  }
+  
+  
+  
+  /*  */
+  footer {
+      display: flex;
+      height: 55vh;
+      width: 100vw;
+      flex-wrap: wrap;
+  }
+  .footer_the_olx_app_section {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      background-color: rgba(0, 47, 52, .03);
+  }
+  .footer_the_olx_app_section image{
+      width: 20px;
+      height: 20px;
+  
+  }
+  .footer__content {
+      background-color: rgba(0, 47, 52, .03);
+      width: 100vw;
+      height: 180px;
+      flex-wrap: wrap;
+  
+     
+      padding:1px;
+      
+      
+  }
+  .footer__content .lists{
+  }
+  .footer__content ul {
+      margin-left: 0px;
+  }
+  .footer__content ul li {
+      color: rgba(0, 47, 52, .64);
+      font-size: 1rem;
+  }
+  h4{
+      font-size: .8rem;
+  }
+  .icons {
+    
+      justify-content: space-evenly;
+  }
